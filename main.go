@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "github.com/Nerevahr/go-http-example/custom"
+	. "github.com/Nerevahr/go-test-modules/custom"
 )
 
 func main() {

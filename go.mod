@@ -1,3 +1,3 @@
-module github.com/Nerevahr/go-http-example
+module github.com/Nerevahr/go-test-modules
 
 go 1.17
